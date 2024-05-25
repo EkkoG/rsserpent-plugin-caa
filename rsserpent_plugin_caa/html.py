@@ -14,7 +14,7 @@ import requests
 import time
 from bs4 import BeautifulSoup
 import arrow
-from rsserpent.utils import cached
+from rsserpent_rev.utils import cached
 
 path = "/caa/html"
 
