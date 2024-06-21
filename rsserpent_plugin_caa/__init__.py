@@ -2,7 +2,6 @@ from rsserpent_rev.models import Persona, Plugin
 
 from . import html
 
-
 plugin = Plugin(
     name="rsserpent-plugin-caa",
     author=Persona(
